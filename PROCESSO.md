@@ -42,7 +42,7 @@ Foi minha primeira vez lidando com a Vercel e tive algumas dificuldades em enten
 
 ---
 
-## Pontos de Fragilidade
+## Pontos de Fragilidade/Pouca confiança na entrega
 
 - **Fila interna + estado em disco:** se houver mais de uma instância rodando, pode ocorrer perda de dados temporários e falhas intermitentes.
 - **Avisos de datas fora de sequência:** podem aparecer em excesso e acabar sendo ignorados.
